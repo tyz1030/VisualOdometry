@@ -1,5 +1,0 @@
-/home/zhangtianyi/visual-odometry-custom/build/CMakeFiles/edit_cache.dir
-/home/zhangtianyi/visual-odometry-custom/build/CMakeFiles/rebuild_cache.dir
-/home/zhangtianyi/visual-odometry-custom/build/src/CMakeFiles/edit_cache.dir
-/home/zhangtianyi/visual-odometry-custom/build/src/CMakeFiles/rebuild_cache.dir
-/home/zhangtianyi/visual-odometry-custom/build/src/CMakeFiles/visualOdometry.dir
